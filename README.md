@@ -1,5 +1,6 @@
 # Seminar-Report
-
+- I have read those papers and my future research direction
+  
 ### Outline : 
 
 #### ✅ Automated Use-After-Free Detection and Exploit Mitigation: How Far Have We Gone?
