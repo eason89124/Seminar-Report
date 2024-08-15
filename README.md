@@ -1,5 +1,6 @@
 # Seminar-Report
-- I have read those papers and my future research direction
+I have read those papers and my future research direction
+
   
 ### Outline : 
 
