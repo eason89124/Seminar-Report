@@ -6,15 +6,15 @@
   - 🔑 Use-After-Free, vulnerability detection, exploit mitigation, program analysis, survey
 ---
 
-- ✅RegVault : Hardware Assisted Selective Data Randomization for Operating System Kernels
+✅RegVault : Hardware Assisted Selective Data Randomization for Operating System Kernels
 
 
-- ✅RetTag: Hardware-assisted Return Address Integrity on RISC-V
+✅RetTag: Hardware-assisted Return Address Integrity on RISC-V
 
 
-- ✅RegGuard: Leveraging CPU registers for mitigation of control- and data-oriented attacks
+✅RegGuard: Leveraging CPU registers for mitigation of control- and data-oriented attacks
 
 
-- ✅Thwarting code-reuse and side-channel attacks in embedded systems
+✅Thwarting code-reuse and side-channel attacks in embedded systems
 
 
