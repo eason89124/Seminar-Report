@@ -3,7 +3,7 @@
 ### Outline : 
 
 #### ✅ Automated Use-After-Free Detection and Exploit Mitigation: How Far Have We Gone?
-  - 🔑Use-After-Free, vulnerability detection, exploit mitigation, program analysis, survey
+  - 🔑 Use-After-Free, vulnerability detection, exploit mitigation, program analysis, survey
 ---
 
 - ✅RegVault : Hardware Assisted Selective Data Randomization for Operating System Kernels
